@@ -1,0 +1,5 @@
+[Match]
+Name=bridge0
+
+[Network]
+DHCP=ipv4
